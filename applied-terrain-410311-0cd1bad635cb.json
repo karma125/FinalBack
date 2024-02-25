@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "applied-terrain-410311",
+  "private_key_id": "0cd1bad635cb08f41d69ef7d25dea360d78a7500",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQChe7xSKr9A4en1\n3BOdY+abLt8TD0RNqz4x/bLBCBjgmiuht7ZsoGm9kSyvAtvvQc5QDaylTewR3nIr\nFhXYmzzkvXD124gUZnrnu7HBCSZZL39DoU4mnebCMBgye/ZrHTGJWO2gKul7UqVb\nqq6PE6301h3NTlccHrv1s7tnCnk8L61q1GwajKMlh7vsKjSziwwxvhsi0LLvs+fj\nwjWTk6TIwj4uYww9NXuJMEzdmiLj55iIwBxYKE5AozmyUyoGK6lVjAl1c7E66iVK\nlXtHAX4vlaDt2Rluv5tGOB1QSDImmv6EYW6lNXCPEGLK+sAqLUErT7y950OhV6Fg\nP+cV0oYtAgMBAAECggEACL3dyTXqsgy4wVg3UJ0cmfh813eLW0gCnyqsb1IspJX7\n+C5th+5cIwi1mkjFlqthi4hd+Pnhpmr8E7SHnLj0oC5YK9sFQBN3Ik3RFtHTu168\nnTDhfeos2ITJfowi4BQNvzFq9bF0/7nO3Uo9Vl36nAcuSFOuGAXa53diFPcmbnlR\nLsdJjDlIkuCpQI02fQ01xd3hDIsEEt1QzRxMjnDIq5OY9pxB3Q1bqQ+Kv3nJCuS3\n+r64Ip4dUzLogJPAHmrYADqwhkUWyZ+KO0HCmEuxLqqadRrfSpp7pIwhqdIniAfq\neOnveOrwwx5NdGP5NRogyqPzIYNR8ZW+4PR7WpSC0QKBgQDbPN3zIkz1QUR8jM6T\nQxdyON39m/+4ALyjyEhToMy6ewZKhxSi3LS+YPCtubg9gNZ8szDAA91ZjOh4fp4I\nXk090pwLZN6lWTKSlsTpoHuUt0dAYboDbti/gWRCR7FXBlQLVARD7tNgqu1Az8Od\n+2ECcaXnxsQtXz6Fi50CAzFpHQKBgQC8j6rc8cREVI9v/e22YdfcNULViUPZFO3f\nnTEQDu4pU3gxMI3AJKZIMb2kXtC9Myu+jdaW86L5qIvRtZMO/Z0fXG1eDnICZUY5\nAZDmXET4lE0RwN0M6M8w12gXACju65G5T+dgX3A/Ct0UZs8JtzUG1lQ24xSfT9lA\nSs5Gm8IUUQKBgQCF7jUYpseku+5+t/YqeD4GhT74AyjA25Jh66RjkkP/V9CMDuFI\nbNPtyYK+XkpzKBXfsAgEBVhfsHkDwzX/nrxJHDQ/satiD4+ZhYldv7A/NYfNiOX9\n2uWGeCErbGil5TPKh9TjOy7eSw0NHt89z6d/urXDVeXaYejr5FJSPGke8QKBgQCp\nP+dk5Fl/38rUAkABibdgwCnaU5gj3QZaxdSJDm21iGeE94j0o7Dhckw/op+Ig8rL\nArNP0SZDI4dE189FEF2dDbBZUWwCPHcYqhAuxTlfSnYW7l87vChlNaQHqSwUsDuf\n81nChkfRPmYMbu99UAX3uh/jGFalXN2rOLoIZLyC0QKBgGha8JWfl6N7LS5ktJfR\nYXERalyMSx2sbAlwN1ALWhRTXnUiRzj1DYna6ANoyC0fkAxrharCTSCL8J/COLdJ\nrrbM6odMwsb2QFuB+vsyooBu16hCWmj+wkv5kiU3EXrEEUebLFaUeTn75nDMNiv2\nAHBlfnBZCpyV/eLOHA0xRZJZ\n-----END PRIVATE KEY-----\n",
+  "client_email": "doremedb@applied-terrain-410311.iam.gserviceaccount.com",
+  "client_id": "108777674909067440036",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/doremedb%40applied-terrain-410311.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+  
+}
